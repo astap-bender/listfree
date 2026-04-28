@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/listfree/static/css/main.58eb460a.css",
-    "main.js": "/listfree/static/js/main.b68c6ece.js",
-    "static/css/468.f5248860.chunk.css": "/listfree/static/css/468.f5248860.chunk.css",
+    "main.css": "/listfree/static/css/main.3014756b.css",
+    "main.js": "/listfree/static/js/main.b0f2a833.js",
+    "static/css/468.882447a5.chunk.css": "/listfree/static/css/468.882447a5.chunk.css",
     "static/js/468.99006cfc.chunk.js": "/listfree/static/js/468.99006cfc.chunk.js",
     "static/css/315.c420c4fe.chunk.css": "/listfree/static/css/315.c420c4fe.chunk.css",
     "static/js/315.6d477773.chunk.js": "/listfree/static/js/315.6d477773.chunk.js",
@@ -16,9 +16,9 @@
     "static/media/game.jpg": "/listfree/static/media/game.75066ff139e530a20a5d.jpg",
     "static/media/houschkapro-bolditalic.woff2": "/listfree/static/media/houschkapro-bolditalic.97b93bf36cf99b7db088.woff2",
     "index.html": "/listfree/index.html",
-    "main.58eb460a.css.map": "/listfree/static/css/main.58eb460a.css.map",
-    "main.b68c6ece.js.map": "/listfree/static/js/main.b68c6ece.js.map",
-    "468.f5248860.chunk.css.map": "/listfree/static/css/468.f5248860.chunk.css.map",
+    "main.3014756b.css.map": "/listfree/static/css/main.3014756b.css.map",
+    "main.b0f2a833.js.map": "/listfree/static/js/main.b0f2a833.js.map",
+    "468.882447a5.chunk.css.map": "/listfree/static/css/468.882447a5.chunk.css.map",
     "468.99006cfc.chunk.js.map": "/listfree/static/js/468.99006cfc.chunk.js.map",
     "315.c420c4fe.chunk.css.map": "/listfree/static/css/315.c420c4fe.chunk.css.map",
     "315.6d477773.chunk.js.map": "/listfree/static/js/315.6d477773.chunk.js.map",
@@ -31,7 +31,7 @@
     "962.a0bc3a04.chunk.js.map": "/listfree/static/js/962.a0bc3a04.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58eb460a.css",
-    "static/js/main.b68c6ece.js"
+    "static/css/main.3014756b.css",
+    "static/js/main.b0f2a833.js"
   ]
 }
