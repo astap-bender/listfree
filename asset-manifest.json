@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/listfree/static/css/main.a2ac39ac.css",
-    "main.js": "/listfree/static/js/main.9e3840e4.js",
+    "main.css": "/listfree/static/css/main.22c17324.css",
+    "main.js": "/listfree/static/js/main.7958d36a.js",
     "static/css/468.882447a5.chunk.css": "/listfree/static/css/468.882447a5.chunk.css",
     "static/js/468.99006cfc.chunk.js": "/listfree/static/js/468.99006cfc.chunk.js",
     "static/css/315.8f720f01.chunk.css": "/listfree/static/css/315.8f720f01.chunk.css",
@@ -16,8 +16,8 @@
     "static/media/game.jpg": "/listfree/static/media/game.75066ff139e530a20a5d.jpg",
     "static/media/houschkapro-bolditalic.woff2": "/listfree/static/media/houschkapro-bolditalic.97b93bf36cf99b7db088.woff2",
     "index.html": "/listfree/index.html",
-    "main.a2ac39ac.css.map": "/listfree/static/css/main.a2ac39ac.css.map",
-    "main.9e3840e4.js.map": "/listfree/static/js/main.9e3840e4.js.map",
+    "main.22c17324.css.map": "/listfree/static/css/main.22c17324.css.map",
+    "main.7958d36a.js.map": "/listfree/static/js/main.7958d36a.js.map",
     "468.882447a5.chunk.css.map": "/listfree/static/css/468.882447a5.chunk.css.map",
     "468.99006cfc.chunk.js.map": "/listfree/static/js/468.99006cfc.chunk.js.map",
     "315.8f720f01.chunk.css.map": "/listfree/static/css/315.8f720f01.chunk.css.map",
@@ -31,7 +31,7 @@
     "962.a0bc3a04.chunk.js.map": "/listfree/static/js/962.a0bc3a04.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2ac39ac.css",
-    "static/js/main.9e3840e4.js"
+    "static/css/main.22c17324.css",
+    "static/js/main.7958d36a.js"
   ]
 }
